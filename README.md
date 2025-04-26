@@ -7,6 +7,12 @@
 The data was loaded into Jupyter notebook
 
 ![data view](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/data%20eploration.png)
+
+```python
+df.shape
+```
+![shape](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/data%20shape.png)
+[data shape](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/data%20shape.png)
 ###### The dataset contains 21 columns and 9994 rows
 
 ## Data Cleaning

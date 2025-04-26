@@ -1,7 +1,7 @@
 # EDA on Superstore dataset
 ## Introduction
-The dataset was gotten from [Kaggle](https://kaggle.com/datasets)
-## Task details
+##### This report presents insights derived from an exploratory data analysis (EDA) of Superstore sales data. The goal is to identify trends, patterns, and areas of opportunity to inform business decisions across sales, shipping, and profitability.
+###### The dataset was gotten from [Kaggle](https://kaggle.com/datasets)
 
 ## Data Loading and Exploration
 The data was loaded into Jupyter notebook

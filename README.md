@@ -77,6 +77,10 @@ print("\n Duplicate rows:", df.duplicated().sum())
 [3 Months Moving Average of Sales](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/Time%20Series%203%20month%20moving%20average.png)
 
 ## Data Visualization
+![dashboard1](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/dashboard%201.png)
+![dashboard2](https://github.com/omo3ara12/oibsip_task1/blob/main/assets/images/dashboard2.png)
+![dashboard3](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/dasboard3.png)
+![dashboard4](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/dashboard4.png)
 
 ## Recommendations
 ###### 1. Optimize Product Focus:

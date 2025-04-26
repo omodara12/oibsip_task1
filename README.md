@@ -44,8 +44,37 @@ print("\n Duplicate rows:", df.duplicated().sum())
 
 
 ## Descriptive Statistics
+#### The descriptive statistics of the data is as follows
+![descriptive statistics](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/descriptive%20statistics%20dashboard.png)
+[descriptive statistics](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/descriptive%20statistics%20dashboard.png)
+
+### Interpretation for Descriptive Statistics
+##### •	Total Sales: High revenue generation from Technology and Office Supplies categories.
+##### •	Average Profit: Technology consistently delivered the highest profit margins.
+##### •	Top Regions: The West region led in both sales and profits, while the South showed potential but underperformed in profit margins.
+##### •	Shipping Mode & Segment:
+##### o	Standard Class was the most used shipping mode.
+##### o	Consumer segment had the highest volume of sales.
+
+##### Descriptive statistics visualization
+![Descriptive statistics visualization](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/descriptive%20stats%20viz.png)
+[Descriptive statistics visualization](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/descriptive%20stats%20viz.png)
 
 ## Time Series Analysis
+##### The time series of the data was also analyzed:
+##### 1. Monthly Sales Trend (2015-2017)
+![Monthly Sales Trend](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/Time%20series%20monthly%20sales%20trend%20%202015-2018.png)
+[Monthly Sales Trend](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/Time%20series%20monthly%20sales%20trend%20%202015-2018.png)
+
+###### •	Monthly sales analysis revealed:
+###### o	Growth in sales, especially in late Q3 and Q4.
+###### o	Volatility in profit margins—indicating inconsistent pricing or discount strategies.
+###### •	Shipping delays may have affected certain segments, impacting customer satisfaction.
+
+
+##### 2. 3 Months Moving Average of Sales 
+![3 Months Moving Average of Sales](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/Time%20Series%203%20month%20moving%20average.png)
+[3 Months Moving Average of Sales](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/Time%20Series%203%20month%20moving%20average.png)
 
 ## Data Visualization
 

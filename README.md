@@ -71,16 +71,26 @@ print("\n Duplicate rows:", df.duplicated().sum())
 ###### o	Volatility in profit margins—indicating inconsistent pricing or discount strategies.
 ###### •	Shipping delays may have affected certain segments, impacting customer satisfaction.
 
-
 ##### 2. 3 Months Moving Average of Sales 
 ![3 Months Moving Average of Sales](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/Time%20Series%203%20month%20moving%20average.png)
 [3 Months Moving Average of Sales](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/Time%20Series%203%20month%20moving%20average.png)
 
 ## Data Visualization
 ![dashboard1](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/dashboard%201.png)
-![dashboard2](https://github.com/omo3ara12/oibsip_task1/blob/main/assets/images/dashboard2.png)
+![dashboard2](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/dashboard2.png)
 ![dashboard3](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/dasboard3.png)
 ![dashboard4](https://github.com/omodara12/oibsip_task1/blob/main/assets/images/dashboard4.png)
+
+## Visual Insights
+##### 1. Line Plot – Sales Over Time
+###### •	Sales showed a clear upward trend with seasonal fluctuations.
+###### •	End-of-year spikes indicated strong Q4 performance—likely due to holiday promotions or budget year-end spending.
+##### 2. Bar Chart – Sales & Profit by Category/Sub-Category
+###### •	Technology outperformed in both sales and profit, followed by Office Supplies.
+###### •	Tables and Bookcases were loss-making sub-categories, despite moderate sales.
+##### 3. Heatmap – Sales by Segment and Region
+###### •	The heatmap showed a strong concentration of sales in the West across all customer segments.
+###### •	The South region had low profitability, especially in the Home Office segment.
 
 ## Recommendations
 ###### 1. Optimize Product Focus:
@@ -100,5 +110,3 @@ print("\n Duplicate rows:", df.duplicated().sum())
 ## Conclusion
 ##### This analysis revealed vital insights into Superstore’s sales dynamics. By focusing on high-performing categories, addressing low-profit segments, and refining regional and shipping strategies, the business can drive better profitability and customer satisfaction.
 ###### The dashboard offers a real-time view of performance, enabling continuous monitoring and smarter decision-making.
-
-

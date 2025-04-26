@@ -1,6 +1,6 @@
 # EDA on Superstore dataset
 ## Introduction
-The dataset was gotten from ![Kaggle](kagle.com/datasets)
+The dataset was gotten from ![Kaggle](https://kagle.com/datasets)
 ## Task details
 
 ## Data Loading and Exploration
